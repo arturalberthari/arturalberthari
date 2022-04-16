@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arturalberthari
+- 👀 I’m interested in learning programming languages.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: email - arturalberthar04@gmail.com
